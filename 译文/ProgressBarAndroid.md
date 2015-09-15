@@ -1,1 +1,0 @@
-翻译地址：http://facebook.github.io/react-native/docs/progressbarandroid.html#content
